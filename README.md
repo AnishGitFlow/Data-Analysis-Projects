@@ -1,4 +1,4 @@
-# Data Analysis Project
+# Data Analysis Projects
 
 This repository contains comprehensive data analysis projects covering various domains including weather, cars, police data, COVID-19, housing, Udemy courses, Netflix content and restaurant sales. Each project is documented in detail with code implementations, visualizations, and key insights.
 
